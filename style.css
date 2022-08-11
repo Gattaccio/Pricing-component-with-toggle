@@ -23,7 +23,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    height: 100vh;
+    min-height: 100vh;
     background: url('./images/bg-bottom.svg') left bottom no-repeat, url('./images/bg-top.svg') top right no-repeat var(--Light-Grayish-Blue);
 }
 
