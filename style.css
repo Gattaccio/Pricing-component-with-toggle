@@ -24,7 +24,7 @@ body {
     justify-content: center;
     flex-direction: column;
     min-height: 100vh;
-    background: url('./images/bg-bottom.svg') left bottom no-repeat, url('./images/bg-top.svg') top right no-repeat var(--Light-Grayish-Blue);
+    background: url('./images/bg-bottom.svg') left bottom no-repeat, url('./images/bg-top.svg') top right no-repeat var(--Very-Light-Grayish-Blue);
 }
 
 h1 {
