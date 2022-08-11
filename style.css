@@ -144,3 +144,15 @@ button:hover {
     color: #fff;
     border: 1px solid #fff;
 }
+
+@media (max-width:768px) {
+   .container {
+    flex-direction: column;
+   }
+   .table {
+    margin: 1rem 0;
+   }
+   h1 {
+    margin-top: 3rem;
+   }
+}
